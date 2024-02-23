@@ -1,4 +1,4 @@
 # Soumyadeep
 This is my first Git Repository.
 <br>
-Author - Soumyadeep Paul
+Author - Soumyadeep (screamcheese)
